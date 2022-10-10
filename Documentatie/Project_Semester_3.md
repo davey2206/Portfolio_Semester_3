@@ -73,6 +73,8 @@ Dit API-project ga ik maken in .net.
 
 **US5:** als een gebruiker wil ik kunnen in logen zodat ik bij MijnCv controle panel kan
 
+**Acceptatiecriteria:**
+
 - Kunnen inloggen/registreren via google.
 ## Extra stories
 
