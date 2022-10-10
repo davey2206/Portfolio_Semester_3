@@ -93,13 +93,12 @@ Dit API-project ga ik maken in .net.
 
 ## Front-end project
 
+![Start_Page drawio](https://user-images.githubusercontent.com/39116329/194814239-b69d076b-8088-4df8-bc4c-35dd7779649d.png)
+![Home_page_cv drawio](https://user-images.githubusercontent.com/39116329/194814242-a0daa3c4-d9c0-43ac-a52d-4070282092ed.png)
+![Menu](https://user-images.githubusercontent.com/39116329/194814243-67850d07-d0c6-4b42-b018-2b80f6df7c2e.png)
 
 ## Database ontwerp
 
+![Database_Ontwerp](https://user-images.githubusercontent.com/39116329/194814199-476c230a-e0aa-4082-9735-1d0ef58a2e27.png)
 
 Ben nog niet zeker of ik een tabel per pagina wil of een groten tabel voor alle pagina’s
-
-
-
-
-
