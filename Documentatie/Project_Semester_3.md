@@ -100,5 +100,3 @@ Dit API-project ga ik maken in .net.
 ## Database ontwerp
 
 ![Database_Ontwerp](https://user-images.githubusercontent.com/39116329/194814199-476c230a-e0aa-4082-9735-1d0ef58a2e27.png)
-
-Ben nog niet zeker of ik een tabel per pagina wil of een groten tabel voor alle pagina’s
