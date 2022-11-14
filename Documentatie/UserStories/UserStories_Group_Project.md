@@ -24,6 +24,8 @@ Werkomgeving is opgezet, architectuur is uit geplanned.
 
 Alle acceptatiecriteria punten zijn functioneel.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## User story 2 : Een parkeergarage bezoeker kan inzien hoeveel vrije plaatsen er zijn.
 ### Omschrijving
 
@@ -41,6 +43,8 @@ x
 ### Definition of done
 
 Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## User story 3 : Een parkeergarage bezoeker kan parkeerinformatie in zien.
 ### Omschrijving
@@ -64,6 +68,8 @@ x
 ### Definition of done
 
 Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## User story 4 : Een parkeergarage bezoeker kan betaalkosten inzien en betalen.
 ### Omschrijving
@@ -89,6 +95,8 @@ x
 
 Alle acceptatiecriteria punten zijn functioneel.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## User story 5 : Een parkeergarages bezoekers benodigde persoonlijke gegevens worden opgeslagen
 ### Omschrijving
 
@@ -105,8 +113,143 @@ Als parkeergarage bezoeker wil ik dat mijn [persoonlijke] gegevens opgeslagen wo
 
 ### Definition of ready
 
-x
+Werkomgeving is opgezet, architectuur is uit geplanned.
 
 ### Definition of done
 
 Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story 6 : Een parkeergarage bezoeker kan overzicht van zijn of haar reserveringen inzien
+### Omschrijving
+
+Als parkeergarage bezoeker wil al mijn reservering kunnen inzien zodat ik weet welke reserveringen ik gemaakt heb
+
+### Acceptatiecriteria
+
+- Er is een overzichtspagina met de bezoekers zijn of haar reserveringen
+
+### Definition of ready
+
+x
+
+### Definition of done
+
+Alle acceptatiecriteria punten zijn functioneel
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story 7 : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story  : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story  : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story  : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story  : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story  : 
+### Omschrijving
+
+
+
+### Acceptatiecriteria
+
+
+
+### Definition of ready
+
+
+
+### Definition of done
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
