@@ -20,6 +20,11 @@ Momenteel heeft het project 3 applicaties deze zijn:
 
 # Group Project
 
+Voor het groeps project dit samester heeft mijn groep de opdracht gekregen om het parkeren bij een parkeer plaats te digitaliseren / automatiseren.
+hiervoor hebben wij momenteel 2 applicaties:
+1. Een Reactjs project voor de webapp waar de gebruiker kan inlogen en reservaties kan maken.
+2. Een ASP.net web API project voor de backend en voor het oplsaan en ophalen van de data van onze database.
+
 ## Repositories
 - [front-end application made in reactjs](https://github.com/davey2206/proftaak_s3_front-end)
 - [API application made in asp.net web api](https://github.com/davey2206/Proftaak_S3_API)
@@ -34,5 +39,5 @@ Momenteel heeft het project 3 applicaties deze zijn:
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
 - [UX Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
 
-## Ontwerpen
+## Research
 - [Google Auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
