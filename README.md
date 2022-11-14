@@ -17,7 +17,7 @@ Portfolio for semester 3 of Fontys ICT
 
 #### Ontwerpen
 - [Google Auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
-- 
+
 ### Repositories
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
