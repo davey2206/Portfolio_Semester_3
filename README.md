@@ -1,5 +1,8 @@
-# Portfolio Semester 3
-Portfolio for semester 3 of Fontys ICT
+# Portfolio Semester 3 Fontys ICT
+
+Voor dit samester heb ik 2 projecten gemaakt: 
+1. Individual Project: Een website waar je een cv kan aanmaken en kan delen.
+2. Group Project: Een App om het pakeren te automatiseren.
 
 # Projects
 
