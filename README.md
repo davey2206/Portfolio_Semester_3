@@ -24,8 +24,8 @@ Voor dit samester heb ik 2 projecten gemaakt:
 - [Group Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
 
 ## Ontwerpen
-- [Technical Design](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
-- [UX](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
+- [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
+- [UX Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
 
 ## Ontwerpen
 - [Google Auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
