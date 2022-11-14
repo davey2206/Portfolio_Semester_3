@@ -6,7 +6,9 @@ Portfolio for semester 3 of Fontys ICT
 ## Individual Project
 
 ### Documentatie
-- [project idee + userstories + ontwerpen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Project_Semester_3.md)
+####User stories
+- [Individual Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Individual_Project.md)
+- [Group Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
 
 ### Repositories
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
