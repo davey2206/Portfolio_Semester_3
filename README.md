@@ -6,8 +6,15 @@ Voor dit samester heb ik 2 projecten gemaakt:
 
 # Individual Project
 
+Voor mijn individual Project maak ik een website waarop je een cv kan maken, bijwerken, bekijken en delen.
+De bedoeling van dit project is om het makelijk te maken om een moeien online cv te kunnen maken.
+Momenteel heeft het project 3 applicaties deze zijn:
+1. Een vuejs project voor het opzoeken en bekijken van een cv.
+2. Een ASP.net MVC project voor een CMS waar je het aanmaken en bewerken van een cv kunt doen.
+3. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database.
+
 ## Repositories
-- [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
+- [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
 
