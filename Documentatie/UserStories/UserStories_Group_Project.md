@@ -1,11 +1,11 @@
-#User stories group project
+# User stories group project
 
-##User story 1 : Een parkeergarage bezoeker kan zichzelf identificeren.
-###Omschrijving
+## User story 1 : Een parkeergarage bezoeker kan zichzelf identificeren.
+### Omschrijving
 
 Als parkeergarage bezoeker wil ik mijzelf bij de poort kunnen identificeren zodat de poort voor mij geopend kan worden.
 
-###Acceptatiecriteria
+### Acceptatiecriteria
 
 - Een parkeergarage bezoeker kan zich identificeren door de benodigde identificatiegegevens in te voeren
 -- Deze identificatiegegevens bestaan uit:
@@ -16,10 +16,10 @@ Als parkeergarage bezoeker wil ik mijzelf bij de poort kunnen identificeren zoda
 - Na een succesvolle identificatie gaat de poort open
 - Na een onsuccesvolle identificatie blijft de poort gesloten en krijgt de bezoeker de kans om opnieuw zich proberen te identificeren
 
-###Definition of ready
+### Definition of ready
 
 Werkomgeving is opgezet, architectuur is uit geplanned.
 
-###Definition of done
+### Definition of done
 
 Alle acceptatiecriteria punten zijn functioneel.
