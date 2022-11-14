@@ -36,6 +36,9 @@ hiervoor hebben wij momenteel 2 applicaties:
 - [Group Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
 
 ## Ontwerpen
+
+Deze ontwerpen gaan over mijn individual project.
+
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
 - [UX Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
 
