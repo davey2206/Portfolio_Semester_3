@@ -18,6 +18,9 @@ Momenteel heeft het project 3 applicaties deze zijn:
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
 
+## Git Project
+- [Git Project](https://github.com/users/davey2206/projects/1/views/1)
+
 # Group Project
 
 Voor het groeps project dit samester heeft mijn groep de opdracht gekregen om het parkeren bij een parkeer plaats te digitaliseren / automatiseren.
