@@ -54,6 +54,7 @@ Als een bezoeker wil ik een cv kunnen aanmaken zodat ik een online cv heb
 ### Definition of ready
 
 - Er is een google login
+- Er is een API
 
 ### Definition of done
 
@@ -76,6 +77,7 @@ Als een gebruiker wil ik pagina's kunnen toevoegen, aanpassen of verwijderen zod
 ### Definition of ready
 
 - User story 3 voor **Een gebruiker kan alleen zijn eigen pagina's aanpassen**
+- Er is een API
 
 ### Definition of done
 
@@ -98,6 +100,7 @@ Als een gebruiker wil ik secties kunnen toevoegen, aanpassen of verwijderen zoda
 ### Definition of ready
 
 - User story 3 voor **Een gebruiker kan alleen zijn eigen pagina's aanpassen**
+- Er is een API
 
 ### Definition of done
 
