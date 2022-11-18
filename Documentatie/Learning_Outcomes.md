@@ -10,3 +10,26 @@
 | Requirements and design | You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.    |
 | Business processes              | You analyze and describe simple business processes that are related to your project.                                               |
 | Professional                    | You act in a professional manner during software development and learning.                                                         |
+
+### Web application
+
+
+### Software quality
+
+
+### Agile method
+
+
+### CI/CD
+
+
+### Cultural differences and ethics
+
+
+### Requirements and design
+
+
+### Business processes
+
+
+### Professional
