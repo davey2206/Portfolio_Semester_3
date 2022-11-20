@@ -7,3 +7,8 @@
 ![Home_page_cv drawio](https://user-images.githubusercontent.com/39116329/201664408-e9f3e40d-2822-41c7-87d2-b72674ffa161.png)
 
 # MijnCV CMS
+
+
+# Group project
+
+[Figma web app design](https://www.figma.com/file/rKlcGcAKuvNdvQK8NnsnZq/Untitled?node-id=0%3A1)
