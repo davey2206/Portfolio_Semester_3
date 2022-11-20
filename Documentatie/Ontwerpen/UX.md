@@ -13,5 +13,5 @@
 
 # Group project
 
-[Figma web app design](https://www.figma.com/file/rKlcGcAKuvNdvQK8NnsnZq/Untitled?node-id=0%3A1)
+- [Figma web app design](https://www.figma.com/file/rKlcGcAKuvNdvQK8NnsnZq/Untitled?node-id=0%3A1)
 
