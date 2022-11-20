@@ -24,7 +24,7 @@ x
 
 ### Agile method
 
-Voor mijn work flow gebruik ik scrum. Hier voor gebruik ik een github projects board voor waar mijn user stories op staan en waar ik mijn issues bijhou.
+Voor mijn work flow gebruik ik scrum. Hier voor gebruik ik een github projects board voor waar mijn user stories op staan en waar ik mijn issues bijhou. En voor ons groep project gebruiken wij jira om onze stories bij te houden
 
 - [Git Projects Board](https://github.com/users/davey2206/projects/1/views/1)
 
