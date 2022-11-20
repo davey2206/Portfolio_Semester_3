@@ -2,7 +2,7 @@
 
 | Outcome                         | Description                                                                                                                        |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Web application                 | You design and build user-friendly, full-stack web applications.                                                                   |
+| [Web application](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Learning_Outcomes.md#web-application)                 | You design and build user-friendly, full-stack web applications.                                                                   |
 | Software quality                | You use software tooling and methodology that continuously monitors and improve the software quality during software development.  |
 | Agile method                    | You choose and implement the most suitable agile software development method for your software project.                            |
 | CI/CD                           | You design and implement a (semi)automated software release process that matches the needs of the project context.                 |
