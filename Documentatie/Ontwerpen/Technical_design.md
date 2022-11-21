@@ -6,6 +6,9 @@
 ## Database design
 ![Database_Ontwerp](https://user-images.githubusercontent.com/39116329/201663979-c2f817f6-7d04-468c-9bfb-8bc1eed8cdc3.png)
 
+## Use case
+![Use_case drawio](https://user-images.githubusercontent.com/39116329/203010235-20f8795d-c0d9-42a8-9363-4030c5d06be6.png)
+
 # Group
 
 ## Project Architecture
