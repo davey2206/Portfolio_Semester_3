@@ -4,7 +4,7 @@ Voor dit samester heb ik 2 projecten gemaakt:
 1. Individual Project: Een website waar je een cv kan aanmaken en kan delen.
 2. Group Project: Een App om het pakeren te automatiseren.
 
-Met deze project en met de menier hoe ik werk wil ik deze Learning Outcomes halen.
+Met deze projecten en met de menier hoe ik werk wil ik deze Learning Outcomes halen.
 - [Learing Outcomes]( https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Learning_Outcomes.md )
 
 # Individual Project
