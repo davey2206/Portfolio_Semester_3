@@ -1,7 +1,3 @@
-# Individual project
-
-![Use_case drawio](https://user-images.githubusercontent.com/39116329/203010235-20f8795d-c0d9-42a8-9363-4030c5d06be6.png)
-
 ## MijnCV website
 
 ### Landing page
