@@ -48,3 +48,4 @@ hiervoor hebben wij momenteel 2 applicaties:
 
 ## Research
 - [Google Auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
+- [Scrum](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Scrum.md)
