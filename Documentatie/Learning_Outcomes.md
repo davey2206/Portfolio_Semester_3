@@ -24,7 +24,18 @@ Voor het Groeps project maken wij een web app om het parkeren bij een parkeer pl
 
 ### Software quality
 
+#### Individual project
+
 x
+
+#### Group project
+
+Voor het bijhouden van onze Software kwaliteit in het groeps project doen we 2 dingen.
+
+- Code reviews
+  - Als iemand een feature af heeft kijkt een iemand anders over de code en kijkt of alles klopt en werkt
+- Branch protection
+  - Met onze branch protection kan je niet meteen naar dev of master pushen. dit moet via een pull request die bij dev door 1 iemand en bij master door 2 mensen reviewed moet worden
 
 ### Agile method
 
