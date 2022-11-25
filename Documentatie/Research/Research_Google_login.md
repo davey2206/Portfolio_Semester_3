@@ -18,7 +18,7 @@ OAuth is een internet standaart waarmee je kan inlogen met je Google, Facebook, 
 OAuth geeft de maker van een website de kans om de gegevens van de gebruiker te gebruiken zonder dat de website het wachtwoord van de gebruiker weet.
 Hiermee hou je de informatie van de gebruiker veilig en hoef je deze nergens op te slaan.
 
-## Voordelen en nadelen van Google auth
+## Voordelen en nadelen van Google OAuth
 
 ## Hoe werkt Google OAuth
 
