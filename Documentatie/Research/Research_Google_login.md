@@ -2,9 +2,9 @@
 
 ## inhoud
 - [Inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#inleiding)
-- [Wat is Google auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#wat-is-google-oauth)
-- [Voordelen en nadelen van Google auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#voordelen-en-nadelen-van-google-auth)
-- [Hoe implementeer je Google auth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#hoe-implementeer-je-google-auth)
+- [Wat is Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#wat-is-google-oauth)
+- [Voordelen en nadelen van Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#voordelen-en-nadelen-van-google-oauth)
+- [Hoe implementeer je Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#hoe-implementeer-je-google-oauth)
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#bronnen)
 
 ## Inleiding
@@ -26,7 +26,7 @@ Google OAuth kan op meederen manieren werken dit ligt aan op welke soort app je 
 
 ![authorization-code](https://user-images.githubusercontent.com/39116329/203999336-b9f4633b-48e7-4dea-94b6-38642dde830e.png)
 
-## Hoe implementeer je Google auth
+## Hoe implementeer je Google OAuth
 
 ## Bronnen
 - https://developers.google.com/identity/protocols/oauth2
