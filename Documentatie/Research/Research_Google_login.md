@@ -49,7 +49,7 @@ Google OAuth kan op meederen manieren werken dit ligt aan de soort app die je wi
 
 ## Bronnen
 - https://developers.google.com/identity/protocols/oauth2
-- https://developers.google.com/identity/gsi/web/guides/overview
+- https://blog.matrixpost.net/using-googles-oauth-2-0-api-for-an-asp-net-core-web-app
 - https://learn.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-7.0
 - https://fusebit.io/blog/google-oauth/?utm_source=www.google.com&utm_medium=referral&utm_campaign=none
 - https://www.tsts.com/blog/pros-cons-of-using-facebook-or-google-for-logins/
