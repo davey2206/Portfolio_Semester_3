@@ -26,7 +26,7 @@ Voor het Groeps project maken wij een web app om het parkeren bij een parkeer pl
 
 #### Individual project
 
-x
+[Google OAuth Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
 
 #### Group project
 
@@ -67,4 +67,6 @@ x
 
 ### Professional
 
-x
+Ik bespreek op een professionelen manier de onderwerpen in onze groep en met de stakeholders.
+Ook Research ik onderwerpen zodat ik professioneel en met kennis kan praten over beslissingen binnen de groep en mijn eigen project.
+[Google OAuth Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
