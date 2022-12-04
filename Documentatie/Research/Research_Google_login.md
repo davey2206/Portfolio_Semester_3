@@ -11,7 +11,7 @@
 ## Inleiding
 
 Voor mijn project van dit semester wou ik kunnen inlogen op mijn app met een Google account. hiervoor wou ik Google's OAuth microservice voor gebruiken. 
-Door het gebruiken van deze service hoef ik zelf geen login te maken. Hiermee bespaar ik tijd en maak ik mijn app veiliger voor de gebruikers. Voordat ik kon beginnen met het implementeer van Google OAuth moest ik gaan onderzoeken wat Google OAuth precies is, wat de voor en na delen zijn van het gebruiken van Google OAuth.
+Door het gebruiken van deze service hoef ik zelf geen login te maken. Hiermee bespaar ik tijd en maak ik mijn app veiliger voor de gebruikers. Voordat ik kon beginnen met het implementeer van Google OAuth moest ik gaan onderzoeken wat Google OAuth precies is, wat de voor en na delen zijn van het gebruiken van Google OAuth en hoe het werkt.
 
 ## Wat is Google OAuth
 
