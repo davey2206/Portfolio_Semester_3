@@ -74,7 +74,7 @@ Installeer via NuGet de authentication package van google.
 
 ![image](https://user-images.githubusercontent.com/39116329/205501074-91c1d31b-4e39-4745-bd4c-2638c7b64a65.png)
 
-hierna kun je de secrets die je van Google hebt ontvangen toevoegen aan jou project. dit doe je via de commend line met deze commends:
+Hierna kun je de secrets die je van Google hebt ontvangen toevoegen aan jou project. dit doe je via de command line met deze commands:
 1. dotnet user-secrets set “Authentication:Google:ClientId” “client-id”
 2. dotnet user-secrets set “Authentication:Google:ClientSecret” “client-secret”
 
