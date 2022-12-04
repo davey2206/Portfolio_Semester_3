@@ -46,6 +46,10 @@ Google OAuth kan op meederen manieren werken dit ligt aan de soort app die je wi
 ![authorization-code](https://user-images.githubusercontent.com/39116329/203999336-b9f4633b-48e7-4dea-94b6-38642dde830e.png)
 
 ## Hoe implementeer je Google OAuth
+Voor het gebruiken van Google OAuth moet je eerst bij Google Credentials aanvragen. Dit doe je door de voglende stappen: 
+1. Maak een Project aan in google cloud
+3. Ga naar APIs & services
+4. Ga naar de tap Credentials
 
 ## Bronnen
 - https://developers.google.com/identity/protocols/oauth2
