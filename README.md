@@ -34,6 +34,7 @@ hiervoor hebben wij momenteel 2 applicaties:
 ## Repositories
 - [front-end application made in reactjs](https://github.com/davey2206/proftaak_s3_front-end)
 - [API application made in asp.net web api](https://github.com/davey2206/Proftaak_S3_API)
+- [front-end CMS application made in reactjs](https://github.com/ParKings-inc/ParKings.CMS.UI.React)
 
 # Documentatie
 
