@@ -78,7 +78,7 @@ Hierna kun je de secrets die je van Google hebt ontvangen toevoegen aan jou proj
 1. dotnet user-secrets set “Authentication:Google:ClientId” “client-id”
 2. dotnet user-secrets set “Authentication:Google:ClientSecret” “client-secret”
 
-Deze commands voegt deze line code toe aan je secrets.json
+Deze commands voegt deze code toe aan je secrets.json
 
 ![image](https://user-images.githubusercontent.com/39116329/205500462-0ec7799b-f6e7-4292-9eca-410f77c4adf2.png)
 
