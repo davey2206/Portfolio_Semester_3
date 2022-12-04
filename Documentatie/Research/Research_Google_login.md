@@ -5,6 +5,7 @@
 - [Wat is Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#wat-is-google-oauth)
 - [Voordelen en nadelen van OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#voordelen-en-nadelen-van-oauth)
 - [Hoe implementeer je Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#hoe-implementeer-je-google-oauth)
+- [Conclusie]
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#bronnen)
 
 ## Inleiding
@@ -90,6 +91,10 @@ Nu kun je inlogen met je Google Account en de login pagina kan je later nog vera
 
 ![image](https://user-images.githubusercontent.com/39116329/205501428-e67dbe22-2cfc-47ca-b08d-d0d584ac374b.png)
 ![image](https://user-images.githubusercontent.com/39116329/205501443-e7fdfd26-6714-4aee-a187-d9143753bf9a.png)
+
+## Conclusie
+
+Het maken van een login systeem is vaak moeilijk en het kost veel tijd. En als je niet voldoende cyber security kennis hebt ook nog onveilig voor jou gebruikers en jou systeem. Door deze redenen is het sneller, makkelijker en veiliger om een login systeem te gebruiken die gemaakt is door een groot bedrijf zoals Google, Facebook, of Microsoft. Deze bedrijfen hebben hierveel APIs gemaakt via het OAuth model. Door het gebruiken van deze APIs kan elke developer een login systeem in hun app hebben zonder ervaring te hebben van cyber security.
 
 
 ## Bronnen
