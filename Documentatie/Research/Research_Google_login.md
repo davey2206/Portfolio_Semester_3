@@ -46,10 +46,51 @@ Google OAuth kan op meederen manieren werken dit ligt aan de soort app die je wi
 ![authorization-code](https://user-images.githubusercontent.com/39116329/203999336-b9f4633b-48e7-4dea-94b6-38642dde830e.png)
 
 ## Hoe implementeer je Google OAuth
+
+### Google OAuth Credentials aanvragen
 Voor het gebruiken van Google OAuth moet je eerst bij Google Credentials aanvragen. Dit doe je door de voglende stappen: 
-1. Maak een Project aan in google cloud
-3. Ga naar APIs & services
-4. Ga naar de tap Credentials
+1. Maak een Project aan in google cloud.
+2. Ga naar APIs & services.
+3. Ga naar de tap Credentials.
+4. Druk op Create Credentials en dan OAuth client ID.
+5. Vul hier de gegevens van jou app in en druk op create.
+
+Met deze Credentials krijg je 2 codes
+
+1. Client ID
+2. Client Secret
+
+Deze codes heb je nodig voor het implementeren van de Google OAuth in jou applicatie.
+
+### implementeren in ASP.net
+
+Om Google OAuth te implementeren in asp.net moet je een project aanmaken met Authenication type: individual accounts. deze kan je installen bij het aanmaken van een applicatie.
+
+![image](https://user-images.githubusercontent.com/39116329/205499542-14f73396-c852-4740-93d5-e9e60b31e114.png)
+
+Deze Authenication type kan je ook later toevoegen door de template via de console te installeren in jou applicatie. Als je dit doet moet je wel uitkijken dat hij de HomeController, Hove Views en layout files van jou project vervangt. Heb hier dus een backup van.
+
+installeer via NuGet de authentication package van google.
+
+![image](https://user-images.githubusercontent.com/39116329/205501074-91c1d31b-4e39-4745-bd4c-2638c7b64a65.png)
+
+hierna kun je de secrets die je van Google hebt ontvangen toevoegen aan jou project. dit doe je via de commend line met deze commends:
+1. dotnet user-secrets set “Authentication:Google:ClientId” “client-id”
+2. dotnet user-secrets set “Authentication:Google:ClientSecret” “client-secret”
+
+Deze commands voegt deze line code toe aan je secrets.json
+
+![image](https://user-images.githubusercontent.com/39116329/205500462-0ec7799b-f6e7-4292-9eca-410f77c4adf2.png)
+
+Verder moet je nog in je Program.cs deze regels code toevoegen en ASP.net doet de rest.
+
+![image](https://user-images.githubusercontent.com/39116329/205501339-a5c9ef16-65fe-4541-88bc-a3c68cd3f992.png)
+
+Nu kun je inlogen met je Google Account en de login pagina kan je later nog veranderen naar wat je nodig hebt.
+
+![image](https://user-images.githubusercontent.com/39116329/205501428-e67dbe22-2cfc-47ca-b08d-d0d584ac374b.png)
+![image](https://user-images.githubusercontent.com/39116329/205501443-e7fdfd26-6714-4aee-a187-d9143753bf9a.png)
+
 
 ## Bronnen
 - https://developers.google.com/identity/protocols/oauth2
