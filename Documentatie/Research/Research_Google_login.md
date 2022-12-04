@@ -41,7 +41,7 @@ Hiermee hou je de informatie van de gebruiker veilig en hoef je deze nergens op 
 
 ## Hoe werkt Google OAuth
 
-Google OAuth kan op meederen manieren werken dit ligt aan de soort app die je wilt gebruiken. voor mijn project gebruik ik een web app gemaakt in asp.net en deze werkt als volgt. 
+Google OAuth kan op meederen manieren werken dit ligt aan de soort app die je wilt gebruiken. Voor mijn project gebruik ik een web app gemaakt in asp.net en deze werkt als volgt. Als een gebruiker wil inlogen redirect mijn app hun naar een Google URL. Via deze URL geeft mijn app informatie door over wat voor soort toegang wordt gevraagt. Google verwerkt te gegevens en laat de gebruiker inloggen en stuurt een authorization code terug. Met deze code kan mijn app een token aanvragen die ik dan weer kan gebruiken om toegang te krijgen bij een Gooogle API
 
 ![authorization-code](https://user-images.githubusercontent.com/39116329/203999336-b9f4633b-48e7-4dea-94b6-38642dde830e.png)
 
