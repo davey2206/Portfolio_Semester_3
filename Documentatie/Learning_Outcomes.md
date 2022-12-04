@@ -59,6 +59,14 @@ x
 
 ### Requirements and design
 
+Doormidel van Requirements uit mijn user stories en ontwerpen uit mijn UX design. bouw ik en mijn groep gebruik vriendelijke applicaties.
+
+User stories:
+
+- [Individual Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Individual_Project.md)
+- [Group Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
+
+- Designs:
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
 - [UX Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
 
