@@ -52,11 +52,11 @@ User stories:
 
 ### CI/CD
 
-x
+x (Ga hier aan beginnen samen met de Research naar docker)
 
 ### Cultural differences and ethics
 
-x
+Bij ons Groeps project hebben wij te maken met kentekens en Google account informatie van onze gebruikers. wij moet met deze informatie op een ethisch omgaan. hiervoor slaan wij alleen de Google Subid op en hashen wij de kentekens van de gebruikers zodat niemand hier bij kan.
 
 ### Requirements and design
 
