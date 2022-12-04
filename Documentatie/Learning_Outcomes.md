@@ -21,6 +21,7 @@ Ik maak een web applicatie waar je cv op kunt maken en kan bekijken / delen. Hie
 Voor het Groeps project maken wij een web app om het parkeren bij een parkeer plaats te digitaliseren / automatiseren. voor dit project heb ik de API opgezet en veel van de extra end-points aangamaakt.
 - [front-end application made in reactjs](https://github.com/davey2206/proftaak_s3_front-end)
 - [API application made in asp.net web api](https://github.com/davey2206/Proftaak_S3_API)'
+- [front-end CMS application made in reactjs](https://github.com/ParKings-inc/ParKings.CMS.UI.React)
 
 ### Software quality
 
