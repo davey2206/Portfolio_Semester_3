@@ -70,7 +70,7 @@ Om Google OAuth te implementeren in asp.net moet je een project aanmaken met Aut
 
 Deze Authenication type kan je ook later toevoegen door de template via de console te installeren in jou applicatie. Als je dit doet moet je wel uitkijken dat hij de HomeController, Hove Views en layout files van jou project vervangt. Heb hier dus een backup van.
 
-installeer via NuGet de authentication package van google.
+Installeer via NuGet de authentication package van google.
 
 ![image](https://user-images.githubusercontent.com/39116329/205501074-91c1d31b-4e39-4745-bd4c-2638c7b64a65.png)
 
