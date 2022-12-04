@@ -59,7 +59,7 @@ x
 
 ### Requirements and design
 
-Doormidel van Requirements uit mijn user stories en ontwerpen uit mijn UX design. bouw ik en mijn groep gebruik vriendelijke applicaties.
+Doormidel van Requirements uit mijn user stories en ontwerpen uit mijn UX design. Bouw ik en mijn groep gebruik vriendelijke applicaties.
 
 User stories:
 
