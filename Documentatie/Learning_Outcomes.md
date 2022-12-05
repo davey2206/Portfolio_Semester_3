@@ -56,7 +56,7 @@ x (Ga hier aan beginnen samen met de Research naar docker)
 
 ### Cultural differences and ethics
 
-Bij ons groeps project hebben wij te maken met kentekens en Google account informatie van onze gebruikers. Wij moeten met deze informatie op een ethische manier omgaan. Hiervoor slaan wij alleen de Google Subid op en hashen wij de kentekens van de gebruikers zodat niemand hier bij kan.
+Bij ons groeps project hebben wij te maken met kentekens en Google account informatie van onze gebruikers. Wij moeten met deze informatie op een ethische manier omgaan. Hiervoor slaan wij alleen de Google Subid op en hashen wij de kentekens van de gebruikers zodat niemand hier bij kan. Ook bij mijn eigen project ga ik op deze manier om met de Google informatie van mijn gebruikers.
 
 ### Requirements and design
 
