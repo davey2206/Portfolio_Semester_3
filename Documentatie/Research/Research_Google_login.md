@@ -4,6 +4,7 @@
 - [Inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#inleiding)
 - [Wat is Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#wat-is-google-oauth)
 - [Voordelen en nadelen van OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#voordelen-en-nadelen-van-oauth)
+- [Hoe werkt Gooogle OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#hoe-werkt-google-oauth)
 - [Hoe implementeer je Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#hoe-implementeer-je-google-oauth)
 - [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#conclusie)
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md#bronnen)
