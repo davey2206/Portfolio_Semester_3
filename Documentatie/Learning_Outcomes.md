@@ -17,6 +17,7 @@ Ik maak een web applicatie waar je cv op kunt maken en kan bekijken / delen. Hie
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
+- [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
 
 Voor het Groeps project maken wij een web app om het parkeren bij een parkeer plaats te digitaliseren / automatiseren. voor dit project heb ik de API opgezet en veel van de extra end-points aangamaakt.
 - [front-end application made in reactjs](https://github.com/davey2206/proftaak_s3_front-end)
