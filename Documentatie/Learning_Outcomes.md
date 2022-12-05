@@ -73,7 +73,7 @@ Designs:
 
 ### Business processes
 
-x
+[Business process model](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Business_Process.md)
 
 ### Professional
 
