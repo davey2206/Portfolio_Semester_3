@@ -17,13 +17,13 @@ Docker is een open plantform voor het Ontwikkelen, leveren, en draaien van appli
 ## Hoe werk docker
 
 ### Containers
-Containers zijn veiligen en geïsoleerde omgevingen waar alles in staat om jou applicatie te draaien. containers werken door het procesisolatie en virtualisatiemogelijkheden van de linux kernel. Deze mogelijkheden zorgen ervoor dat meerdere applicatie componenten de zelfde werkkracht kunnen delen van een besturingssysteem. Dit heeft meerderen voordelen.
+Containers zijn veiligen en geïsoleerde omgevingen waar alles in staat om jou applicatie te draaien. Containers werken door het procesisolatie en virtualisatiemogelijkheden van de linux kernel. Deze mogelijkheden zorgen ervoor dat meerdere applicatie componenten de zelfde werkkracht kunnen delen van een besturingssysteem. Dit heeft meerderen voordelen.
 - Het systeem heeft minder werkkracht nodig.
 - Minder werk voor developers omdat je de containers maar 1 keer hoeft te schrijven en dan kan je ze overal gebruiken.
 - Containers gebruiken minder opslag.
 
 ### Docker architectuur
-Docker werkt op een client-server architectuur. De Docker client praat met de Docker daemon. Deze daemon buid, draait en deelt jou Docker containers. De Docker client en daemon kunnen op het zelfde systeem draaien of je connect een docker cleint naar een online daemon. De client en daemon praten met elkaar via een REST API.
+Docker werkt op een client-server architectuur. De Docker client praat met de Docker daemon. Deze daemon buid, draait en deelt jou Docker containers. De Docker client en daemon kunnen op het zelfde systeem draaien of je connect een docker cleint aan een online daemon. De client en daemon praten met elkaar via een REST API.
 ![architecture](https://user-images.githubusercontent.com/39116329/206179475-cbf5b0aa-6391-4c5e-8d8a-f2063c66ebb6.svg)
 
 
