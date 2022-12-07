@@ -12,7 +12,10 @@
 Voor het leerdoel CI/CD van semester 3 te halen wou ik gebruik maken van docker. Voordat ik hier mee kon beginnen moest ik eerst onderzoek doen naar wat docker is, hoe het werkt en hoe ik het toevoeg aan mijn projecten. Ook wou ik wat Software quality toevoegen aan mijn projecten door het gebruiken van het automatisch testen en deployment van docker.
 
 ## Wat is docker
-Docker is een open plantform voor het Ontwikkelen, leveren, en draaien van applicaties. Docker helpt je met het scheiden van je infrastructuur zodat je snel je producten kan leveren. Docker doet dit door jou applicaties in een geïsoleerde omgevingen genaamt containers te zetten. Deze containers kan een host dan gebruiken om jou applicaties te draaien.
+Docker is een open plantform voor het Ontwikkelen, leveren, en draaien van applicaties. Docker helpt je met het scheiden van je infrastructuur zodat je snel je producten kan leveren. Docker doet dit door jou applicaties in een geïsoleerde omgevingen genaamt containers te zetten. Deze containers kan een host dan gebruiken om jou applicaties te draaien. Je kan Docker voor meerderen dingen gebruiken:
+- Snelle levering van jou applicaties.
+- Het responsieve deployment en het schaalen van jou applicaties.
+- Meer dingen draaien op de zelfde hardware.
 
 ## Hoe werk docker
 
