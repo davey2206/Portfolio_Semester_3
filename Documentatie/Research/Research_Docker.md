@@ -39,3 +39,4 @@ Docker werkt op een client-server architectuur. De Docker client praat met de Do
 - https://docs.docker.com/get-started/overview/
 - https://docs.docker.com/docker-hub/builds/automated-testing/
 - https://www.ibm.com/cloud/learn/docker
+- https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0
