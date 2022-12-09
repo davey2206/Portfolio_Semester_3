@@ -32,6 +32,12 @@ Docker werkt op een client-server architectuur. De Docker client praat met de Do
 
 ## Hoe installeer je docker in jou projecten
 
+voor dat je docker kan installeren in een van jou projecten moet je docker desktop downloaden en installeren. Hiermee kan je je Images en containers bijhouden en draaien. Het installeren van docker in jou project is anders per framework die je gebruikt voor mij moest ik het maken voor ASP.NET en Node.js.
+
+### ASP.NET
+
+### Node.js
+
 ## Hoe voeg je automatisch testen toe
 
 ## Bronnen
