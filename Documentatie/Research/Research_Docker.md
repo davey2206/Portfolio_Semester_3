@@ -46,3 +46,4 @@ voor dat je docker kan installeren in een van jou projecten moet je docker deskt
 - https://docs.docker.com/docker-hub/builds/automated-testing/
 - https://www.ibm.com/cloud/learn/docker
 - https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0
+- https://samwalpole.com/how-to-run-aspnet-core-and-sql-server-from-docker
