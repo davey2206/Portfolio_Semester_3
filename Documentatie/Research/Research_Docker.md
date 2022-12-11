@@ -35,8 +35,29 @@ Docker werkt op een client-server architectuur. De Docker client praat met de Do
 voor dat je docker kan installeren in een van jou projecten moet je docker desktop downloaden en installeren. Hiermee kan je je Images en containers bijhouden en draaien. Het installeren van docker in jou project is anders per framework die je gebruikt voor mij moest ik het maken voor ASP.NET en Node.js.
 
 ### ASP.NET
+een Image en een container aan te maken in ASP.net via Visual Studio 2022 is heel simple hier zijn de stappen die je moet doen.
+
+- 1 Druk rechter muisknop op jou project
+- 2 Druk op add en dan Docker Support
+
+![image](https://user-images.githubusercontent.com/39116329/206902670-49e375ed-30c1-4805-a5ac-9d63d5aad9ee.png)
+
+- 3 dit maakt automatisch een Dockerfile aan met alle commands die je nodig hebt
+
+![image](https://user-images.githubusercontent.com/39116329/206902884-96408d56-8fc3-4ac1-8e1b-1f9f43370c62.png)
+
+- 4 Hierna kan je hem publishe naar Docker Hub door deze stapen:
+
+![image](https://user-images.githubusercontent.com/39116329/206902974-6afe250b-a955-4f21-be08-5458d7582e27.png)
+![image](https://user-images.githubusercontent.com/39116329/206903049-1b75c3fd-11a6-4cc0-9a1c-5089c6cd9034.png)
+![image](https://user-images.githubusercontent.com/39116329/206903079-ffb8b2c1-6a31-45f5-bfc7-c5d840fe98e1.png)
+![image](https://user-images.githubusercontent.com/39116329/206903108-71c73bff-2c7d-4d44-ae51-542a0e3ee2ce.png)
+
+Verder kan je nog Docker-compose toevoegen voor het toevegen van meerderen containers hier kom ik bij het MSSQL gedeelte op terug.
 
 ### Node.js
+
+### MSSQL
 
 ## Hoe voeg je automatisch testen toe
 
@@ -46,3 +67,4 @@ voor dat je docker kan installeren in een van jou projecten moet je docker deskt
 - https://docs.docker.com/docker-hub/builds/automated-testing/
 - https://www.ibm.com/cloud/learn/docker
 - https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0
+- https://learn.microsoft.com/en-us/visualstudio/containers/overview?view=vs-2022
