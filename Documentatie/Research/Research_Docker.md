@@ -55,7 +55,20 @@ een Image en een container aan te maken in ASP.net via Visual Studio 2022 is hee
 
 Verder kan je nog Docker-compose toevoegen voor het toevegen van meerderen containers hier kom ik bij het MSSQL gedeelte op terug.
 
-### Node.js
+### Vue.js
+Om een Image en een container aan te maken en te runnen in een Vue.js applicatie moet je deze stapen volgen:
+- 1 Maak een Dockerfile aan in jou project deze file heeft geen file extension
+
+![image](https://user-images.githubusercontent.com/39116329/206904001-b9ce1673-5492-4fb3-82c1-db2cf80a99af.png)
+
+- 2 Deze Dockerfile moet je als volgt in delen voor een vue.js project
+
+![image](https://user-images.githubusercontent.com/39116329/206904221-32dd7dd3-edf7-4f52-ba6f-d7b6f6914611.png)
+
+- 3 Maak een Image aan via deze Command <code>docker build -t vuejs-cookbook/dockerize-vuejs-app .</code> hierbij is vuejs-cookbook/dockerize-vuejs-app de naam van de Image.
+- 4 Maak en run een container via deze Command <code>docker run -it -p 8080:8080 --rm --name MijnCV vuejs-cookbook/dockerize-vuejs-app
+</code> waarbij --name MijnCV is de naar van de container en vuejs-cookbook/dockerize-vuejs-app de Image waarvan hij de container maakt
+
 
 ### MSSQL
 
@@ -68,3 +81,4 @@ Verder kan je nog Docker-compose toevoegen voor het toevegen van meerderen conta
 - https://www.ibm.com/cloud/learn/docker
 - https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0
 - https://learn.microsoft.com/en-us/visualstudio/containers/overview?view=vs-2022
+- https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html#Real-World-Example
