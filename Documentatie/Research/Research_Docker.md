@@ -37,12 +37,12 @@ voor dat je docker kan installeren in een van jou projecten moet je docker deskt
 ### ASP.NET
 een Image en een container aan te maken in ASP.net via Visual Studio 2022 is heel simple hier zijn de stappen die je moet doen.
 
-- 1 Druk rechter muisknop op jou project
-- 2 Druk op add en dan Docker Support
+- 1 Druk rechter muisknop op jou project.
+- 2 Druk op add en dan Docker Support.
 
 ![image](https://user-images.githubusercontent.com/39116329/206902670-49e375ed-30c1-4805-a5ac-9d63d5aad9ee.png)
 
-- 3 dit maakt automatisch een Dockerfile aan met alle commands die je nodig hebt
+- 3 Dit maakt automatisch een Dockerfile aan met alle commands die je nodig hebt.
 
 ![image](https://user-images.githubusercontent.com/39116329/206902884-96408d56-8fc3-4ac1-8e1b-1f9f43370c62.png)
 
@@ -57,17 +57,17 @@ Verder kan je nog Docker-compose toevoegen voor het toevegen van meerderen conta
 
 ### Vue.js
 Om een Image en een container aan te maken en te runnen in een Vue.js applicatie moet je deze stapen volgen:
-- 1 Maak een Dockerfile aan in jou project deze file heeft geen file extension
+- 1 Maak een Dockerfile aan in jou project deze file heeft geen file extension.
 
 ![image](https://user-images.githubusercontent.com/39116329/206904001-b9ce1673-5492-4fb3-82c1-db2cf80a99af.png)
 
-- 2 Deze Dockerfile moet je als volgt in delen voor een vue.js project
+- 2 Deze Dockerfile moet je als volgt in delen voor een vue.js project.
 
 ![image](https://user-images.githubusercontent.com/39116329/206904221-32dd7dd3-edf7-4f52-ba6f-d7b6f6914611.png)
 
 - 3 Maak een Image aan via deze Command <code>docker build -t vuejs-cookbook/dockerize-vuejs-app .</code> hierbij is vuejs-cookbook/dockerize-vuejs-app de naam van de Image.
 - 4 Maak en run een container via deze Command <code>docker run -it -p 8080:8080 --rm --name MijnCV vuejs-cookbook/dockerize-vuejs-app
-</code> waarbij --name MijnCV is de naar van de container en vuejs-cookbook/dockerize-vuejs-app de Image waarvan hij de container maakt
+</code> Waarbij --name MijnCV is de naar van de container en vuejs-cookbook/dockerize-vuejs-app de Image waarvan hij de container maakt.
 
 
 ### MSSQL
