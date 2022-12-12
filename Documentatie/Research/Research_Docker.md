@@ -72,7 +72,7 @@ Om een Image en een container aan te maken en te runnen in een Vue.js applicatie
 
 ### MSSQL
 
-## Hoe voeg je automatisch testen toe
+## CI/CD
 
 ## Bronnen
 - https://www.docker.com/
