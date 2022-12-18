@@ -16,11 +16,13 @@ Om UX better te begrijpen heb ik onderzoek gedaan naar UX design. Ik wou hier me
 
 ## Wat is UX
 
-UX staat voor User Experience zoals de naam het zegt gaat het over hoe de gebruiker iets ervaard. Deze ervaring van een product is heel belangrijk deze moet duidelijk en natuurlijk zijn zodat een gebruiker gemakelijk alles kan doen wat hij wil doen met het product. Als een product een goede UX design heeft willen de gebruikers jou product blijven gebruiken en delen ze het met anderen. 
+UX staat voor User Experience zoals de naam het zegt gaat het over hoe de gebruiker iets ervaart. Deze ervaring van een product is heel belangrijk deze moet duidelijk en natuurlijk zijn zodat een gebruiker gemakelijk alles kan doen wat hij wil doen met het product. Als een product een goede UX design heeft willen de gebruikers jou product blijven gebruiken en delen ze het met anderen. 
 
 UX design gaat nog dieper dan alleen het product het gaat ook over de reclame, verpaking en de klanten service na het uitbrengen van een product. Maar voor dit onderzoek ga ik me meer focus op het software gedeelte van UX design.
 
 ## Verschil tussen UI en UX
+
+User Interface (UI) en User Experience (UX) worder vaak door elkaar gehaalt terwel ze veel verschillen hebben. Waar UI gaat meer over het uiterluk van een applicatie en UX gaat meer over hoe een gebruiker de applicatie ervaart.
 
 ## Hoe maak je UX design
 
