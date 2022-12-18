@@ -53,15 +53,19 @@ User stories:
 
 ### CI/CD
 
-x (Ga hier aan beginnen samen met de Research naar docker)
+Ik werk via github actions voor mijn CI (CD work in progress).
+- [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
+- [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
+- [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
+- [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
+
+- [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
 
 ### Cultural differences and ethics
 
 Bij ons groeps project hebben wij te maken met kentekens en Google account informatie van onze gebruikers. Wij moeten met deze informatie op een ethische manier omgaan. Hiervoor slaan wij alleen de Google Subid op en hashen wij de kentekens van de gebruikers zodat niemand hier bij kan. Ook bij mijn eigen project ga ik op deze manier om met de Google informatie van mijn gebruikers.
 
 ### Requirements and design
-
-Doormidel van Requirements uit mijn user stories en ontwerpen uit mijn UX design. Bouw ik en mijn groep gebruik vriendelijke applicaties.
 
 User stories:
 
@@ -71,6 +75,7 @@ User stories:
 Designs:
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
 - [UI Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
+- [UX Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md) 
 
 ### Business processes
 
@@ -82,3 +87,4 @@ Ik bespreek op een professionele manier de onderwerpen in onze groep en met de s
 Ook Research ik onderwerpen zodat ik op een professionele manier en met kennis kan praten over beslissingen binnen de groep en bij mijn eigen project.
 - [Google OAuth Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
 - [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
+- [UX Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md) 
