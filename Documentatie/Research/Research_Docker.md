@@ -72,6 +72,7 @@ Om een Image en een container aan te maken en te runnen in een Vue.js applicatie
 
 ### MSSQL
 
+### Conclusie
 
 ## Bronnen
 - https://www.docker.com/
