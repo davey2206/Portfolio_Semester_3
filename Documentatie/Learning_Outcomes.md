@@ -59,7 +59,8 @@ Ik werk via github actions voor mijn CI (CD work in progress).
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
 - [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
 
-- [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
+Ook heb ik research gedaan naar docker.
+- [Docker Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
 
 ### Cultural differences and ethics
 
@@ -86,5 +87,5 @@ Designs:
 Ik bespreek op een professionele manier de onderwerpen in onze groep en met de stakeholders.
 Ook Research ik onderwerpen zodat ik op een professionele manier en met kennis kan praten over beslissingen binnen de groep en bij mijn eigen project.
 - [Google OAuth Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
-- [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
+- [Docker Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
 - [UX Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md) 
