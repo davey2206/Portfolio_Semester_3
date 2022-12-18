@@ -81,3 +81,4 @@ Designs:
 Ik bespreek op een professionele manier de onderwerpen in onze groep en met de stakeholders.
 Ook Research ik onderwerpen zodat ik op een professionele manier en met kennis kan praten over beslissingen binnen de groep en bij mijn eigen project.
 - [Google OAuth Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
+- [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
