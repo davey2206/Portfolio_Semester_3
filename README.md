@@ -46,7 +46,7 @@ hiervoor hebben wij momenteel 2 applicaties:
 ## Ontwerpen
 
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
-- [UX Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
+- [UI Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
 
 ## Research
 - [Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
