@@ -42,7 +42,13 @@ Voor het bijhouden van onze Software kwaliteit in het groeps project doen we 2 d
 
 ### Agile method
 
-Voor mijn work flow gebruik ik scrum. Hier voor gebruik ik een github projects board voor waar mijn user stories op staan en waar ik mijn issues bijhou. En voor ons groep project gebruiken wij jira om onze stories bij te houden
+Om Agile te blijven in ons groeps project werken wij via de scrum mothode. Wij werken in sprints van 3 weken elke sprint bepalen wij sammen met de stakeholders aan welke User Stories wij gaan werken. deze User Stories houden wij bij via een jira board.
+
+Voorbeeld van ons jira board.
+
+![image](https://user-images.githubusercontent.com/39116329/208300196-d9845829-e3be-4843-a700-3bd6de33f1d9.png)
+
+Voor mijn eigen project werk ik met github projects.
 
 - [Git Projects Board](https://github.com/users/davey2206/projects/1/views/1)
 
