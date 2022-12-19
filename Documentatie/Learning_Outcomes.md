@@ -66,7 +66,7 @@ User stories:
 
 ### CI/CD
 
-Ik werk via github actions voor mijn CI (CD work in progress).
+Ik werk via github actions voor mijn CI/CD (work in progress).
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
