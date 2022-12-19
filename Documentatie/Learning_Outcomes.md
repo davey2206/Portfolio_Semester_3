@@ -33,7 +33,10 @@ Door middel van Research blijf ik op de hogten van nieuwen technieken en impleme
 - [Docker Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
 - [UX Research](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md) 
 
-Ook heb ik unit testen gemaakt in mijn projecten deze testen worden automatich door mijn Github actions uitgevoort bij een push naar Github.
+Ook heb ik unit testen gemaakt in mijn projecten deze testen worden automatich door mijn Github actions uitgevoort bij een push naar Github. Ook werk ik met Sonarcloud waar ik kan zien welke dingen ik moet verbeteren of als een een vulnerabilitie is. Deze wordt automatich bijgehouden door de zelfde github action.
+
+![image](https://user-images.githubusercontent.com/39116329/208443794-3ad908ec-3b05-4c68-a9d3-4b57ed974a01.png)
+
 
 #### Group project
 
