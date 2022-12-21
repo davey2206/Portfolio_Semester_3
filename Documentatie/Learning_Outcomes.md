@@ -14,7 +14,7 @@
 ### Web application
 
 Ik maak een web applicatie waar je cv op kunt maken en kan bekijken / delen. Hier voor heb ik 3 Applicaties:
-- [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
+- [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
 - [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
