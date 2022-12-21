@@ -17,7 +17,7 @@ Momenteel heeft het project 3 applicaties deze zijn:
 3. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database.
 
 ## Repositories
-- [front-end application made in vuejs](https://github.com/davey2206/MijnCV/tree/master/mijncv)
+- [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
 - [API application made in asp.net web api cv services](https://github.com/davey2206/MijnCV_API)
 - [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
