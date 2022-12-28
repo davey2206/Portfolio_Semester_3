@@ -5,7 +5,7 @@
 - [Wat is docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#wat-is-docker)
 - [Hoe werk docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#hoe-werk-docker)
 - [Hoe installeer je docker in jou projecten](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#hoe-installeer-je-docker-in-jou-projecten)
-- [CI/CD](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#cicd)
+- [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#conclusie)
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md#bronnen)
 
 ## Inleiding
@@ -69,10 +69,8 @@ Om een Image en een container aan te maken en te runnen in een Vue.js applicatie
 - 4 Maak en run een container via deze Command <code>docker run -it -p 8080:8080 --rm --name MijnCV vuejs-cookbook/dockerize-vuejs-app
 </code> Waarbij --name MijnCV is de naar van de container en vuejs-cookbook/dockerize-vuejs-app de Image waarvan hij de container maakt.
 
-
-### MSSQL
-
 ### Conclusie
+Docker is een veel gebruikten service waar mee je Containers kan maken die kunnen draaien op bijna elk platform. De basis van Docker is redelijk makelijk te leren en te gebruiken. Wel wordt het veel meer complex als je er dieper induikt en hier zou je dan ook veel tijd in kunnen steken.
 
 ## Bronnen
 - https://www.docker.com/
