@@ -12,7 +12,7 @@
 # Group
 
 ## Project Architecture
-![image](https://user-images.githubusercontent.com/39116329/202904183-3c427ced-1fe7-41ab-a6f4-96a84929a9b5.png)
+![image](https://user-images.githubusercontent.com/39116329/210232487-2b62aa64-be0b-4848-bae8-af9d132ed847.png)
 
 ## Database design
 ![image](https://user-images.githubusercontent.com/39116329/202904190-f3a9cce1-eede-49f4-b2d8-78f2c61ff508.png)
