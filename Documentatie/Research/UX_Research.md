@@ -5,8 +5,7 @@
 - [inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#inleiding)
 - [Wat is UX](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#wat-is-ux)
 - [Verschil tussen UI en UX](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#verschil-tussen-ui-en-ux)
-- [Hoe maak je UX design](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#hoe-maak-je-ux-design)
-- [Hoe test je je UX design](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#hoe-test-je-je-ux-design)
+- [Hoe maak je UX design](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#hoe-maak-je-een-ux-design)
 - [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#conclusie)
 - [bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md#bronnen)
 
@@ -26,7 +25,7 @@ User Interface (UI) en User Experience (UX) worder vaak door elkaar gehaalt terw
 
 ![image](https://user-images.githubusercontent.com/39116329/210352082-4df42f72-73f6-4e8a-a941-9d2847fbdf36.png)
 
-## Hoe maak je een goede UX design
+## Hoe maak je een UX design
 
 Om een goede UX design te maken moet je eerst veel onderzoek gaan doen naar jou gebruikers. Dit doe je in 2 fases een onderzoek fase en een test fase. in de onderzoek fase ga je onderzoek doen naar wie je focus groep is en wat hun willen. In de test fase kijk je naar wat de gebruikers vinden van het disgin en hoe makelijk ze er door heen kunnen gaan. Elke fase heeft veel verschillende technieken voor dit onderzoek focus ik op een paar van deze technieken.
 
