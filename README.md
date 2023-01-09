@@ -47,8 +47,9 @@ hiervoor hebben wij momenteel 2 applicaties:
 
 - [Technical Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Technical_design.md)
 - [UI Designs](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/UX.md)
-- [Business_Proces](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Business_Process.md)
+- [Business Proces](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Ontwerpen/Business_Process.md)
 
 ## Research
 - [Google OAuth](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Google_login.md)
 - [Docker](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Research_Docker.md)
+- [UX](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/UX_Research.md)
