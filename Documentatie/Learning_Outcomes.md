@@ -17,7 +17,7 @@
 
 Voor mijn individueel project heb ik een product gemaakt waarmee je een online cv kan aanmaken, bijhouden en bekijken. Dit project is gemaakt via een Distributed software architectuur. 
 
-(Plaatje van architectuur)
+![image](https://user-images.githubusercontent.com/39116329/211289965-b2167e78-6f7a-4f05-af3e-66441cadf787.png)
 
 En bestaat dus uit 4 applicaties.
 
