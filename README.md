@@ -19,8 +19,8 @@ Momenteel heeft het project 3 applicaties deze zijn:
 ## Repositories
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
-- [API application made in asp.net web api cv services](https://github.com/davey2206/MijnCV_API)
-- [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
+- [API application made in asp.net web api (Section service/ Pages service)](https://github.com/davey2206/MijnCV_API)
+- [API application made in asp.net web api (User service/ Statistics service)](https://github.com/davey2206/MijnCV_User_Service)
 
 ## Git Projects Board
 - [Git Project](https://github.com/users/davey2206/projects/1/views/1)
