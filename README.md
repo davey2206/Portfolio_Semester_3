@@ -11,7 +11,7 @@ Doormiddel van deze projecten en met de menier hoe ik werk wil ik Learning Outco
 
 Voor mijn individual Project maak ik een website waarop je een cv kan maken, bijwerken, bekijken en delen.
 De bedoeling van dit project is om het makelijk te maken om een moeien online cv te kunnen maken.
-Momenteel heeft het project 3 applicaties deze zijn:
+Momenteel heeft het project 4 applicaties deze zijn:
 1. Een vuejs project voor het opzoeken en bekijken van een cv.
 2. Een ASP.net MVC project voor een CMS waar je het aanmaken en bewerken van een cv kunt doen.
 3. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database voor de Sections en Pages.
