@@ -14,7 +14,8 @@ De bedoeling van dit project is om het makelijk te maken om een moeien online cv
 Momenteel heeft het project 3 applicaties deze zijn:
 1. Een vuejs project voor het opzoeken en bekijken van een cv.
 2. Een ASP.net MVC project voor een CMS waar je het aanmaken en bewerken van een cv kunt doen.
-3. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database.
+3. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database voor de Sections en Pages.
+4. Een ASP.net web API project voor het oplsaan en ophalen van de data van een database voor de Users en Statistics.
 
 ## Repositories
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
