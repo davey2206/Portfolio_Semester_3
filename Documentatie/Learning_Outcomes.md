@@ -23,8 +23,8 @@ En bestaat dus uit 4 applicaties.
 
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
-- [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
-- [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
+- [API application made in asp.net web api (Section service/ Pages service)](https://github.com/davey2206/MijnCV_API)
+- [API application made in asp.net web api (User service/ Statistics service)](https://github.com/davey2206/MijnCV_User_Service)
 
 Voor het Groepsproject moesten wij een web app maken om het parkeren bij een parkeer plaats te digitaliseren / automatiseren. 
 
@@ -86,8 +86,8 @@ Ook heb ik onderzoek gedaan naar docker om te leren wat het is en hoe ik het toe
 Projecten met actions:
 - [front-end application made in vuejs](https://github.com/davey2206/MijnCV)
 - [CMS application made in asp.net mvc](https://github.com/davey2206/MijnCV_CMS)
-- [API application made in asp.net web api](https://github.com/davey2206/MijnCV_API)
-- [API application made in asp.net web api user services](https://github.com/davey2206/MijnCV_User_Service)
+- [API application made in asp.net web api (Section service/ Pages service)](https://github.com/davey2206/MijnCV_API)
+- [API application made in asp.net web api (User service/ Statistics service)](https://github.com/davey2206/MijnCV_User_Service)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
