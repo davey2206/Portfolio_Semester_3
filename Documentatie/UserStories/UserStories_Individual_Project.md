@@ -145,3 +145,25 @@ Als een gebruiker wil ik de kleuren kunnen aanpassen van mijn cv
 ### Definition of done
 
 Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## User story 8 : Er wordt bijgehouden hoevaak een cv wordt bekeken.
+### Omschrijving
+
+Als een gebruiker wil ik kunnen bijhouden hoevaak mijn cv wordt bekeken zodat ik kan zien of mijn cv wordt bekeken
+
+### Acceptatiecriteria
+
+ - Als een pagina wordt bekeken gaat de counter van hoevaak hij is bekeken omhoog.
+ - Counter wordt opgeslagen in de database.
+ - Je kan op het cms zien hoevaak jou cv is bekeken.
+
+### Definition of ready
+
+- User story 1
+- User story 3
+
+### Definition of done
+
+Alle acceptatiecriteria punten zijn functioneel.
