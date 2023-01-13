@@ -91,3 +91,23 @@ Hieronder zie je de 3e en laatste versie van ons database design. Deze is gemaak
 ![ClassDiagram_Proftaak (1) drawio](https://user-images.githubusercontent.com/39116329/212302957-7e065f73-15ea-4b70-8bfa-a67bd63ec165.png)
 
 #### Aanpassingen van V2 naar V3:
+
+nieuwen tabelen
+- Role tabel: in deze tabel zitten alle role die een user kan zijn.
+- SpaceType tabel: in deze tabel zitten verschillende soorten parkeer pleken.
+- SpaceStatus tabel: in deze tabek zitten alle statusen die een parkeer plek kan hebben
+
+Pricing tabel
+- nieuwe kolom Recurring: deze houd bij of een prijs elke week moet herhalen.
+
+Space tabel
+- Row kolom: houd de rij van de plek bij.
+- TypeID kolom: deze houd het type van de plek bij via de SpaceType tabel.
+- StatusID kolom: deze houd de status van de plek bij bia de SpaceStatus tabel.
+
+User tabel
+- Role kolom naar RoleID hiermee gebruikt de user de role van de Role tabel.
+
+Reservations tabel
+- nieuwe kolom Payment_Id deze kolom wordt door Mollie gebruikt om de betaling te maken.
+
