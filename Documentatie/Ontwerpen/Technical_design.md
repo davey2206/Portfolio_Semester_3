@@ -33,7 +33,9 @@ Ook werken wij met Google OAuth 2.0 voor het inloggen van onze gebruiker. hierme
 ## Database design
 ### V1
 
-Hieronder zie je de eerste versie van ons database design. Ik had dezze gemaakt gebaseerd op de eerste User Storys die wij moesten maken.
+Hieronder zie je de eerste versie van ons database design. Ik had deze gemaakt gebaseerd op de eerste User Storys die wij moesten maken.
+
+![ClassDiagram_Proftaak drawio](https://user-images.githubusercontent.com/39116329/212298669-7ae51f74-277f-494c-bbf9-458d526a57c3.png)
 
 We moesten een User kunnen opslaan:
 - Hiervoor had ik een tabel aan gemaakt met een ID en een SubID. Hiervoor hoefte wij alleen de SubID opteslaan van het Google account van de gebruiker.
@@ -56,10 +58,36 @@ Een gebruiker moest kunnen parkeren en een berekende prijs kunnen betalen.
 - Ook hielt hij de berekende prijs de ge gebruiker moet betalen bij.
 - Een parking hoorde bij een Garage en had een Auto die er op kon staan.
 
-![ClassDiagram_Proftaak drawio](https://user-images.githubusercontent.com/39116329/212298669-7ae51f74-277f-494c-bbf9-458d526a57c3.png)
-
 ### V2
+
+Hieronder zie je de 2e versie van ons database design. ik had de 2e versie gemaakt na de feedback van de stakeholders. deze versie is gebasseert op het hele geplende project inplaats van alleen de user storys waar we mee bezig waren. hierdoor hoefde we niet de heletijd de database aan tepassen.
+
 ![image](https://user-images.githubusercontent.com/39116329/202904190-f3a9cce1-eede-49f4-b2d8-78f2c61ff508.png)
 
+#### Aanpassingen van V1 naar V2:
+
+Parking tabel is nu verdeel over 3 tabelen:
+- Reservations tabel deze houd bij wanneer een gebruiker in een garage is / wanneer hij verwacht is.
+- Space tabel zijn alle plaatse die in een gerage zitten.
+- Receipt is voor de berekende bon van de gebruiker.
+
+De User tabel
+- heeft een role kolom gekregen om te kunnen zien of het een admin of gebruiker is.
+
+Gerage tabel
+- Freespace is weg gehaalt en wordt nu berekent me de space tabel
+- Price is opgesplits in NormalPrice en MaxPrice
+
+Nieuw tabel Pricing
+- Met deze tabel kunnen we speciale prijsen bij houden van een gerage.
+- deze hebben een start en eind tijd en een prijs per uur.
+
+Verder zijn alle prijsen veranderd naar Decimal inplaats van double. Dit heb ik gedaan omdat doubles niet heel accuraat zijn bijvoorbeeld een 1.1 kan in een double 1.09999999 worden. Dit wil je natuurlijk niet hebben als het gaat om prijzen hiervoor heb ik kort onderzoek gedaan naar wat het beeste is om te gebruiken hier kwam uit dat Decimal het nauwkeurigste waren voor de prijzen van onze applicatie. maar zelfs Decimal kan afrond problemmen krijgen bij bedragen boven de miljoenen. Omdat wij niet zoon hogen prijzen hoeven bij te houden is Decimal de beste optie voor ons.
+
 ### V3
+
+Hieronder zie je de 3e en laatste versie van ons database design. Deze is gemaakt omdat er nog een paar kleine dingen miste in de vorge versie.
+
 ![ClassDiagram_Proftaak (1) drawio](https://user-images.githubusercontent.com/39116329/212302957-7e065f73-15ea-4b70-8bfa-a67bd63ec165.png)
+
+#### Aanpassingen van V2 naar V3:
