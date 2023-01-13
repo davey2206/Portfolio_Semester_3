@@ -15,4 +15,10 @@
 ![image](https://user-images.githubusercontent.com/39116329/210232487-2b62aa64-be0b-4848-bae8-af9d132ed847.png)
 
 ## Database design
+### V1
+![ClassDiagram_Proftaak drawio](https://user-images.githubusercontent.com/39116329/212298669-7ae51f74-277f-494c-bbf9-458d526a57c3.png)
+
+### V2
 ![image](https://user-images.githubusercontent.com/39116329/202904190-f3a9cce1-eede-49f4-b2d8-78f2c61ff508.png)
+
+### V3
