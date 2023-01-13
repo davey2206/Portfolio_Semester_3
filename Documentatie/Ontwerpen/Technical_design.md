@@ -22,3 +22,4 @@
 ![image](https://user-images.githubusercontent.com/39116329/202904190-f3a9cce1-eede-49f4-b2d8-78f2c61ff508.png)
 
 ### V3
+![ClassDiagram_Proftaak (1) drawio](https://user-images.githubusercontent.com/39116329/212302957-7e065f73-15ea-4b70-8bfa-a67bd63ec165.png)
