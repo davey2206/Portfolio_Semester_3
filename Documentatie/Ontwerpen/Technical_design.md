@@ -26,6 +26,8 @@ We hebben voor ASP.NET Core web API gekozen omdat:
 - ASP.NET heeft een groten community die er mee werk dus je kan snel problemen oplossen.
 - Met ASP.NET en XUnit kan je makkelijk unit testen op zetten.
 
+Ook werken wij met Google OAuth 2.0 voor het inloggen van onze gebruiker. hiermee hoeven zij zelf geen inlog systeem te maken en is het makkelijker en veiliger voor onze gebruikers om in teloggen.
+
 ![image](https://user-images.githubusercontent.com/39116329/210232487-2b62aa64-be0b-4848-bae8-af9d132ed847.png)
 
 ## Database design
