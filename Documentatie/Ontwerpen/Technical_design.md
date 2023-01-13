@@ -32,6 +32,30 @@ Ook werken wij met Google OAuth 2.0 voor het inloggen van onze gebruiker. hierme
 
 ## Database design
 ### V1
+
+Hieronder zie je de eerste versie van ons database design. Ik had dezze gemaakt gebaseerd op de eerste User Storys die wij moesten maken.
+
+We moesten een User kunnen opslaan:
+- Hiervoor had ik een tabel aan gemaakt met een ID en een SubID. Hiervoor hoefte wij alleen de SubID opteslaan van het Google account van de gebruiker.
+
+Een gebruiker moest ook een auto kunnen toevoegen en zijn account.
+- Hiervoor had ik de auto tabel toegevoegd hier kan een gebruiker het kenteken zijn auto opslaan.
+- Ook kan een gebruiker meerderen auto hebben omdat somige gezinnen meerder autos hebben.
+- Ook kan een auto meerderen gebruikers hebben om de zelfde reden.
+
+We hadden Garages nodig waar een gebruiker kon parkeren.
+- Hiervoor had ik de Garage tabel toegevoedt.
+- Een gerage moest een openings en sluitings tijd hebben.
+- Een gerage moest kunnen bijhouden of hij vol is.
+- Een gerage had een naam.
+- Een gerage had een prijs per uur.
+
+Een gebruiker moest kunnen parkeren en een berekende prijs kunnen betalen.
+- Hiervoor had ik de Parking tabel toegevoedt
+- Deze hielt de aankomst en vertrek tijd bij.
+- Ook hielt hij de berekende prijs de ge gebruiker moet betalen bij.
+- Een parking hoorde bij een Garage en had een Auto die er op kon staan.
+
 ![ClassDiagram_Proftaak drawio](https://user-images.githubusercontent.com/39116329/212298669-7ae51f74-277f-494c-bbf9-458d526a57c3.png)
 
 ### V2
