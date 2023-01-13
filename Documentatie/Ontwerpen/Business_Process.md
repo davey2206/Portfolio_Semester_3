@@ -1,8 +1,8 @@
 # Groep project
 
-om te bepalen hoe onze applicatie het process van een klant die gaat parkeren bij een parkeer garage verandert heb ik 2 business processen gemaakt.
-- Het process van parkeren bij een garage zonder onze applicatie.
-- Het process van parkeren bij een garage met onze applicatie.
+om te bepalen hoe onze applicatie het process van een klant die gaat parkeren bij een parkeer garage verandert heb ik 4 business processen gemaakt.
+- 2 processen van parkeren bij een garage zonder onze applicatie.
+- 2 processen van parkeren bij een garage met onze applicatie.
 
 Hiermee wil ik kijken wat onze applicatie verbeterd en of onze applicatie het process voor de gebruiker makkelijker maakt.
 
@@ -34,6 +34,12 @@ Dit is het processen van het naar binnen en buiten rijden met onze applicatie:
 - De gebruiker moet meer doen voor het binnen rijden.
 
 # Individual project
+
+om te bepalen hoe mijn applicatie het process van een online cv aanmaken en bekijken verandert heb ik 4 processen gemaakt
+- 2 processen van een online cv aanmkanen/bekijken zonder mijn project
+- 2 processen van een online cv aanmkanen/bekijken met mijn project
+
+Hiermee wil ik kijken wat mijn applicatie verbeterd en of mijn applicatie het process voor de gebruiker makkelijker maakt.
 
 ## oude process
 ![business Process eigen project drawio](https://user-images.githubusercontent.com/39116329/205640611-44437b70-e132-4dfc-bd12-f975f0123a49.png)
