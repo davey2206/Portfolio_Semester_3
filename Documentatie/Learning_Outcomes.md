@@ -93,7 +93,27 @@ Projecten met actions:
 
 ### Cultural differences and ethics
 
-Bij ons groeps project hebben wij te maken met kentekens en Google account informatie van onze gebruikers. Wij moeten met deze informatie op een ethische manier omgaan. Hiervoor slaan wij alleen de Google Subid op en hashen wij de kentekens van de gebruikers zodat niemand hier bij kan. Ook bij mijn eigen project ga ik op deze manier om met de Google informatie van mijn gebruikers.
+Om op een ethisch manier te werken bij ons groepsproject hebben wij Ethische ontwikkelingsprincipes toegepast
+
+#### Een applicatie moet voor iedereen werken
+
+Om te zorgen dat iedereen onze applicatie kan gebruiken doen wij de volgende dingen:
+- Onze applicatie volgt een goed UX design zodat iedereen de applicatie kan begrijpen en gebruiken. 
+- Ook maken wij gebruik van Google login zodat iedereen gemakkelijk een account kan aanmaken en kan inlogen.
+
+#### Een applicatie moet overall werken
+
+Om te zorgen dat onze applicatie overall werkt doen wij de volgende dingen:
+- Onze applicatie zijn gemaakt met ReactJS, Material UI en bootstrap hiermee maken wij onze applicatie responsief zodat je hem overal kan gebruiken.
+- Ook wordt de data in onze app realtime geupdate en hebben wij onze applicatie a one page web app gemaakt zodat je nooit de pagina hoeft te vernieuwen.
+
+#### Een applicatie moet de privé en veiligheid van de gebruiker respecteren
+
+Bij onze applicatie hebben wij te maken met privé data van onze gebruiker en moeten gebruiker veilig kunnen inlogen hiervoor doen wij een paar dingen:
+- We maken gebruik van Google OAuth 2.0 zodat wij zelf geen data hoeven opteslaan behalve de Google SubID.
+- Door het gebruiken van Google OAuth is het inlogen voor de gebruiker ook veiliger als dat wij zelf een systeem zouden maken.
+- Verder hebben wij te maken met kentekens van de gebruiker deze worden door ons systeem gehashed zodat we de gebruiker informatie privé en veilig houden.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
