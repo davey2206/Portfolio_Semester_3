@@ -101,8 +101,8 @@ Bij ons groeps project hebben wij te maken met kentekens en Google account infor
 
 Bij ons groepsproject en ook bij mijn eigen project werken wij met user stories om de Requirements van de projecten bij te houden.
 
-- [Individual Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Individual_Project.md)
-- [Group Project](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
+- [Individual Project User Stories](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Individual_Project.md)
+- [Group Project User Stories](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/UserStories/UserStories_Group_Project.md)
 
 Ook hebben wij user vriendelijke ontwerpen gemaakt zodat iedereen makkelijk de app kan gebruiken. Hiervoor heb ik onderzoek gedaan naar UX design.
 
