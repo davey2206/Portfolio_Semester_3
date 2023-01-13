@@ -42,7 +42,25 @@ om te bepalen hoe mijn applicatie het process van een online cv aanmaken en beki
 Hiermee wil ik kijken wat mijn applicatie verbeterd en of mijn applicatie het process voor de gebruiker makkelijker maakt.
 
 ## oude process
+dit is het process van een online cv aanmaken en bekijken zonder mijn project.
+
 ![business Process eigen project drawio](https://user-images.githubusercontent.com/39116329/205640611-44437b70-e132-4dfc-bd12-f975f0123a49.png)
 
+### Voordelen van het oude process
+- je hebt heel veel customization hoe je het gaat maken en hoe het er uit ziet.
+
+### Nadelen van het oude process
+- als je geen of weinig ervaring hebt in web development moet je dit gaan leren of een betaalde programa gebruiken.
+- een bedrijf heeft heel veel verschillende pleken waar ze naar cv kunnen zoeken waardoor er een kleineren kans is dat ze naar jou cv kijken.
+
 ## nieuwe process
+dit is het process van een online cv aanmaken en bekijken met het gebruien van mijn project
+
 ![new business Process eigen project drawio](https://user-images.githubusercontent.com/39116329/205641698-ace05f72-ead8-4fd6-aef1-2523104aec67.png)
+
+### Voordelen van het nieuwe process
+- Het opzetten van een cv is makkelijk en kost niet veel tijd.
+- Het opzetten van een cv kost de gebruiker geen geld.
+
+### Nadelen van het nieuwe process
+- er is een beperkte customization van jou cv
