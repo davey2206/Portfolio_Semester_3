@@ -12,6 +12,20 @@
 # Group
 
 ## Project Architecture
+
+Voor het groepsproject werken wij met 3 applicaties en 1 database. Hiervan zijn 2 applicaties een React.js project en 1 een ASP.NET Core web API project. 
+
+We hebben voor React.js gekozen omdat:
+- React is flexibel en kan voor veel verschillende applicaties worden gebruikt.
+- In React kan je snel een werkende applicatie maken.
+- Sammen met Material UI of vergelijkbaren extensies kan je snel en makkelijk een mooien applicatie maken.
+
+We hebben voor ASP.NET Core web API gekozen omdat:
+- ASP.NET web API is snel en makkelijk om op tezeten.
+- ASP.NET web API is makkelijk uitbreidbaar.
+- ASP.NET heeft een groten community die er mee werk dus je kan snel problemen oplossen.
+- Met ASP.NET en XUnit kan je makkelijk unit testen op zetten.
+
 ![image](https://user-images.githubusercontent.com/39116329/210232487-2b62aa64-be0b-4848-bae8-af9d132ed847.png)
 
 ## Database design
