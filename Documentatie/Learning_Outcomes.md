@@ -17,7 +17,8 @@
 
 Voor mijn individueel project heb ik een product gemaakt waarmee je een online cv kan aanmaken, bijhouden en bekijken. Dit project is gemaakt via een Distributed software architectuur. 
 
-![image](https://user-images.githubusercontent.com/39116329/211289965-b2167e78-6f7a-4f05-af3e-66441cadf787.png)
+![Project_Ar drawio (1)](https://user-images.githubusercontent.com/39116329/212539590-d395ca04-68a9-4788-a2de-d432a2c38d36.png)
+
 
 En bestaat dus uit 4 applicaties.
 
