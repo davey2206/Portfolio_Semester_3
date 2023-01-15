@@ -4,7 +4,12 @@
 ![Project_Ar drawio](https://user-images.githubusercontent.com/39116329/210566052-aef6c7af-cade-4b10-bfe0-79144cdf78a0.png)
 
 ## Database design
+### V1
 ![Database_Ontwerp](https://user-images.githubusercontent.com/39116329/201663979-c2f817f6-7d04-468c-9bfb-8bc1eed8cdc3.png)
+
+### V2
+![database design drawio](https://user-images.githubusercontent.com/39116329/212539307-e3d0b4d7-e5da-4891-b129-ff14636b41a1.png)
+
 
 ## Use case
 ![Use_case drawio](https://user-images.githubusercontent.com/39116329/203010235-20f8795d-c0d9-42a8-9363-4030c5d06be6.png)
