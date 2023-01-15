@@ -1,7 +1,8 @@
 # Individual
 
 ## Project Architecture
-![Project_Ar drawio](https://user-images.githubusercontent.com/39116329/210566052-aef6c7af-cade-4b10-bfe0-79144cdf78a0.png)
+![Project_Ar drawio (1)](https://user-images.githubusercontent.com/39116329/212539524-0ba0375f-422c-4334-847f-0a975ed85a9d.png)
+
 
 ## Database design
 ### V1
