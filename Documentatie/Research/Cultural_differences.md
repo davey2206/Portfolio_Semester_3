@@ -4,6 +4,7 @@
 - [Inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#inleiding)
 - [Communicatie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#communicatie-in-verschillende-culturen)
 - [Hierarchie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#hierarchie-in-verschillende-culturen)
+-  Verschillen binnen een team
 - [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#conclusie)
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#Bronnen)
 
@@ -53,11 +54,22 @@ terwijl in andere culturen wordt verwacht dat beslissingen worden genomen door d
 Het is belangrijk om rekening te houden met culturele verschillen in hiërarchie wanneer we werken met mensen uit andere culturen,
 of het nu in een professionele of persoonlijke setting is. Dit kan helpen om misverstanden en frustraties te voorkomen en de groep effectief te laten functioneren.
 
+## Verschillen binnen een team en teamwerk
+
+Culturele verschillen binnen een team kunnen zowel uitdagingen als voordelen met zich meebrengen.
+Aan de ene kant kunnen verschillende culturele achtergronden leiden tot misverstanden en conflicten,
+vooral als teamleden niet bekend zijn met de culturen van andere leden en hun gewoonten en waarden.
+Aan de andere kant kunnen culturele verschillen ook bijdragen aan een grotere creativiteit en innovatie,
+omdat teamleden verschillende perspectieven en ideeën kunnen aandragen.
+
 
 ## Conclusie
+
+Culturele diversiteit en teamwerk zijn beide belangrijke aspecten van een efficiënte en productieve werkomgeving. Culturele diversiteit kan leiden tot grotere creativiteit en innovatie, terwijl goed teamwerk kan leiden tot grotere efficiëntie en een positieve werkomgeving. Bedrijven die de waarde van deze aspecten erkennen, zullen waarschijnlijk meer succesvol zijn in hun werkzaamheden.
 
 ## Bronnen
 - https://www.picked.ai/magazine/what-is-hierarchy-culture/
 - https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing
 - https://devtechsys.com/insights/2020/09/01/understanding-cultural-influence-on-communication-styles/
 - https://www.theclassroom.com/effective-uses-verbal-communication-8280136.html
+- https://smallbusiness.chron.com/reversing-extroverted-leadership-37381.html
