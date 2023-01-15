@@ -1,6 +1,20 @@
 # Individual
 
 ## Project Architecture
+
+Mijn project is gemaakt op een Distributed software architectuur manier. Het project bestaat uit 4 applicaties, 1 database en een connectie met google OAuth 2.0.
+2 applicaties zijn ASP.NET WEB API's deze hebben de volgende services:
+- Section service: met deze service kan je de secties van een cv ophalen, aanmaken en bijwerken die op een pagina komen te staan
+- Page service: met deze service kan je pagina's voor een cv ophalen, aanmaken en bijwerken.
+- User service: met deze service kan je een user ophalen, aanmaken en bijwerken.
+- Statistics service: met deze service kan je de views van een cv ophalen en bijwerken.
+
+Voor de serviceheb ik voor ASP.NET WEB API gekozen omdat:
+- ASP.NET web API is snel en makkelijk om op tezeten.
+- ASP.NET web API is makkelijk uitbreidbaar.
+- ASP.NET heeft een groten community die er mee werk dus je kan snel problemen oplossen.
+- Met ASP.NET en XUnit kan je makkelijk unit testen op zetten.
+
 ![Project_Ar drawio (1)](https://user-images.githubusercontent.com/39116329/212539524-0ba0375f-422c-4334-847f-0a975ed85a9d.png)
 
 
