@@ -80,3 +80,5 @@ Culturele diversiteit en teamwerk zijn beide belangrijke aspecten van een effici
 - https://devtechsys.com/insights/2020/09/01/understanding-cultural-influence-on-communication-styles/
 - https://www.theclassroom.com/effective-uses-verbal-communication-8280136.html
 - https://smallbusiness.chron.com/reversing-extroverted-leadership-37381.html
+- https://www.hult.edu/blog/benefits-challenges-cultural-diversity-workplace/
+- https://medium.com/grow-in-the-learning-process/what-is-the-impact-of-cultural-diversity-on-team-performance-b5ea4a50d1bb
