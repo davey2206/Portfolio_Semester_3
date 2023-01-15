@@ -115,6 +115,10 @@ Bij onze applicatie hebben wij te maken met privé data van onze gebruiker en mo
 - Door het gebruiken van Google OAuth is het inlogen voor de gebruiker ook veiliger als dat wij zelf een systeem zouden maken.
 - Verder hebben wij te maken met kentekens van de gebruiker deze worden door ons systeem gehashed zodat we de gebruiker informatie privé en veilig houden.
 
+Verder heb ik nog onderzoek gedaan naar cultuur veschillen in softwareontwikkeling.
+
+- [Cultural_differences](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
