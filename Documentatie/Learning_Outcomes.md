@@ -117,7 +117,7 @@ Bij onze applicatie hebben wij te maken met privé data van onze gebruiker en mo
 
 Verder heb ik nog onderzoek gedaan naar cultuur veschillen in softwareontwikkeling.
 
-- [Cultural_differences](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md)
+- [Culturele verschillen in softwareontwikkeling](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
