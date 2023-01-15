@@ -9,13 +9,20 @@ Mijn project is gemaakt op een Distributed software architectuur manier. Het pro
 - User service: met deze service kan je een user ophalen, aanmaken en bijwerken.
 - Statistics service: met deze service kan je de views van een cv ophalen en bijwerken.
 
-1 applicatie is gemaakt in ASP.NET MVC WEB APP. op deze applicatie kan de gebruiker een cv aanmaken en bijhouden. Ook kan de gebruiker hier de statistieken van hun cv hier zien
+1 applicatie is gemaakt in ASP.NET MVC WEB APP. op deze applicatie kan de gebruiker een cv aanmaken en bijhouden. Ook kan de gebruiker hier de statistieken van hun cv hier zien. In deze applicatie moet de gebruiker inloggen voor dat hij deze kan gebruiken dit wordt gedaan via Google OAuth 2.0.
 
-Voor de serviceheb ik voor ASP.NET gekozen omdat:
+Ik voor ASP.NET gekozen omdat:
 - ASP.NET web API is snel en makkelijk om op tezeten.
 - ASP.NET web API is makkelijk uitbreidbaar.
 - ASP.NET heeft een groten community die er mee werk dus je kan snel problemen oplossen.
 - Met ASP.NET en XUnit kan je makkelijk unit testen op zetten.
+
+De laatste applicatie is gemaakt in VueJS samen met Vue Router voor een single page web applicatie.
+
+Ik heb voor Vuejs gekozen omdat:
+- VueJS is Snel te leren en makkelijk te begrijpen.
+- Door het gebruiken van VueJS components kan ik mijn verschillen de layouts makkelijk aanroepen.
+- VueJS heeft makkelijk te gebruiken for loops zodat ik mijn cv paginas automatisch kon opbouwen.
 
 ![Project_Ar drawio (1)](https://user-images.githubusercontent.com/39116329/212539524-0ba0375f-422c-4334-847f-0a975ed85a9d.png)
 
