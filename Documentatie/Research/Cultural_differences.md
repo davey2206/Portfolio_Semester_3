@@ -1,11 +1,11 @@
 # Culturele verschillen in softwareontwikkeling 
 
 ## inhoud
-- Inleiding
-- Communicatie in verschillende culturen
-- Hierarchie in verschillende culturen
-- Conclusie
-- Bronnen
+- [Inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#inleiding)
+- [Communicatie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#communicatie-in-verschillende-culturen)
+- [Hierarchie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#hierarchie-in-verschillende-culturen)
+- [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#conclusie)
+- [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#Bronnen)
 
 ## inleiding
 
@@ -56,7 +56,7 @@ of het nu in een professionele of persoonlijke setting is. Dit kan helpen om mis
 
 ## Conclusie
 
-## bronnen
+## Bronnen
 https://www.picked.ai/magazine/what-is-hierarchy-culture/
 https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing
 https://devtechsys.com/insights/2020/09/01/understanding-cultural-influence-on-communication-styles/
