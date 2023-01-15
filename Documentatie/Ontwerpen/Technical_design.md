@@ -29,13 +29,35 @@ Ik heb voor Vuejs gekozen omdat:
 
 ## Database design
 ### V1
+
+Hieronder zie je de eerste versie van mijn database design voor mijn individual project. Deze was gemaakt met all mijn eigen user stories op dat moment in gedachten.
+
 ![Database_Ontwerp](https://user-images.githubusercontent.com/39116329/201663979-c2f817f6-7d04-468c-9bfb-8bc1eed8cdc3.png)
 
+Voor mijn project moest ik een user / cv kunnem opslaan.
+- Hiervoor had ik de Users tabel gemaakt.
+
+Ook moest een gebruiker de inhoud van de cv kunnen bekijken, aanmaken en bijwerken.
+- Hiervoor had ik de Sections tabel gemaakt deze houd de title, text, plaatje, layout en pagina bij van een sectie van de cv.
+- Ook heb ik een Pages tabel gemaakt zodat een gebruiker hun cv better kan inrichten.
+
 ### V2
+
+Hieronder zie je de tweede versie van mijn database design voor mijn individual project. deze is gemaakt na dat er een extra user story bij was gekommen.
+
 ![database design drawio](https://user-images.githubusercontent.com/39116329/212539307-e3d0b4d7-e5da-4891-b129-ff14636b41a1.png)
 
+#### Aanpassingen van V1 naar V2:
+
+Nieuwe tabel Statistics.
+- Deze tabel houd de statistieken van een cv bij voor deze versie kan een cv views hebben.
 
 ## Use case
+
+Mijn project heeft 2 actors die bepaalde dingen kunnen doen.
+- Een Gebruiker is iemand die een account en cv heeft.
+- Een Bezoeker is iemand die nog geen account heeft.
+
 ![Use_case drawio](https://user-images.githubusercontent.com/39116329/203010235-20f8795d-c0d9-42a8-9363-4030c5d06be6.png)
 
 # Group
