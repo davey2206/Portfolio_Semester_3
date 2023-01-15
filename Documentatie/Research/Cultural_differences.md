@@ -4,11 +4,15 @@
 - [Inleiding](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#inleiding)
 - [Communicatie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#communicatie-in-verschillende-culturen)
 - [Hierarchie in verschillende culturen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#hierarchie-in-verschillende-culturen)
--  Verschillen binnen een team
+-  [Verschillen binnen een team](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#verschillen-binnen-een-team-en-teamwerk)
 - [Conclusie](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#conclusie)
 - [Bronnen](https://github.com/davey2206/Portfolio_Semester_3/blob/main/Documentatie/Research/Cultural_differences.md#Bronnen)
 
 ## inleiding
+
+De softwareontwikkelingsindustrie is een van de snelst groeiende en meest competitieve sectoren in de wereld. Met de toenemende globalisering en verbondenheid van bedrijven en organisaties, wordt softwareontwikkeling vaak uitgevoerd in virtuele teams die over de hele wereld verspreid zijn. Dit brengt culturele verschillen naar voren als een belangrijk aspect van de softwareontwikkelingspraktijk.
+
+Culturele verschillen kunnen zowel uitdagingen als voordelen met zich meebrengen voor softwareontwikkelingsteams. Aan de ene kant kan het leiden tot communicatieproblemen, conflicten en een lagere efficiëntie. Aan de andere kant kan culturele diversiteit leiden tot grotere creativiteit en innovatie, omdat teamleden verschillende perspectieven en ideeën kunnen hebben.
 
 ## Communicatie in verschillende culturen
 
@@ -60,8 +64,11 @@ Culturele verschillen binnen een team kunnen zowel uitdagingen als voordelen met
 Aan de ene kant kunnen verschillende culturele achtergronden leiden tot misverstanden en conflicten,
 vooral als teamleden niet bekend zijn met de culturen van andere leden en hun gewoonten en waarden.
 Aan de andere kant kunnen culturele verschillen ook bijdragen aan een grotere creativiteit en innovatie,
-omdat teamleden verschillende perspectieven en ideeën kunnen aandragen.
+omdat teamleden verschillende perspectieven en ideeën hebben.
 
+Een goede manier om culturele verschillen binnen een team te beheren, is door open en eerlijke communicatie te bevorderen. Teamleden moeten elkaar respectvol benaderen en bereid zijn om te luisteren naar andere perspectieven. Het is ook belangrijk om een cultuur van inclusie te creëren, waarbij iedereen zich welkom en geaccepteerd voelt.
+
+Teamwerk is ook belangrijk om culturele verschillen binnen een team te beheren. Wanneer teamleden samenwerken, kunnen ze elkaar beter begrijpen en respecteren. Teamleden moeten ook een gemeenschappelijk doel hebben en hun inspanningen richten op het behalen van dit doel. Bovendien is het belangrijk dat teamleden bereid zijn om samen te werken en elkaar te helpen, ongeacht hun culturele achtergrond.
 
 ## Conclusie
 
