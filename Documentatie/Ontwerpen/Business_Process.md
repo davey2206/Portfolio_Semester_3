@@ -4,7 +4,7 @@ om te bepalen hoe onze applicatie het process van een klant die gaat parkeren bi
 - 2 processen van parkeren bij een garage zonder onze applicatie.
 - 2 processen van parkeren bij een garage met onze applicatie.
 
-Hiermee wil ik kijken wat onze applicatie verbeterd en of onze applicatie het process voor de gebruiker makkelijker maakt.
+Hiermee wil ik kijken wat onze applicaties verbeterd en of onze applicatie het process voor de gebruiker makkelijker maakt.
 
 ## oude process
 
