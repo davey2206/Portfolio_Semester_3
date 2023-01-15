@@ -57,7 +57,7 @@ of het nu in een professionele of persoonlijke setting is. Dit kan helpen om mis
 ## Conclusie
 
 ## Bronnen
-https://www.picked.ai/magazine/what-is-hierarchy-culture/
-https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing
-https://devtechsys.com/insights/2020/09/01/understanding-cultural-influence-on-communication-styles/
-https://www.theclassroom.com/effective-uses-verbal-communication-8280136.html
+- https://www.picked.ai/magazine/what-is-hierarchy-culture/
+- https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing
+- https://devtechsys.com/insights/2020/09/01/understanding-cultural-influence-on-communication-styles/
+- https://www.theclassroom.com/effective-uses-verbal-communication-8280136.html
