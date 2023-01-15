@@ -21,7 +21,7 @@ De laatste applicatie is gemaakt in VueJS samen met Vue Router voor een single p
 
 Ik heb voor Vuejs gekozen omdat:
 - VueJS is Snel te leren en makkelijk te begrijpen.
-- Door het gebruiken van VueJS components kan ik mijn verschillen de layouts makkelijk aanroepen.
+- Door het gebruiken van VueJS components kan ik mijn verschillende layouts makkelijk aanroepen.
 - VueJS heeft makkelijk te gebruiken for loops zodat ik mijn cv paginas automatisch kon opbouwen.
 
 ![Project_Ar drawio (1)](https://user-images.githubusercontent.com/39116329/212539524-0ba0375f-422c-4334-847f-0a975ed85a9d.png)
