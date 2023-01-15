@@ -9,7 +9,9 @@ Mijn project is gemaakt op een Distributed software architectuur manier. Het pro
 - User service: met deze service kan je een user ophalen, aanmaken en bijwerken.
 - Statistics service: met deze service kan je de views van een cv ophalen en bijwerken.
 
-Voor de serviceheb ik voor ASP.NET WEB API gekozen omdat:
+1 applicatie is gemaakt in ASP.NET MVC WEB APP. op deze applicatie kan de gebruiker een cv aanmaken en bijhouden. Ook kan de gebruiker hier de statistieken van hun cv hier zien
+
+Voor de serviceheb ik voor ASP.NET gekozen omdat:
 - ASP.NET web API is snel en makkelijk om op tezeten.
 - ASP.NET web API is makkelijk uitbreidbaar.
 - ASP.NET heeft een groten community die er mee werk dus je kan snel problemen oplossen.
